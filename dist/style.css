@@ -1,0 +1,109 @@
+body {
+  background-color: #DDE9D6;
+  font-family: "Oswald";
+}
+
+h1 {
+  font-size: 50px;
+  background-color: #F06D06;
+  text-align: center;
+  padding: 30px;
+  border-radius: 15px;
+  color: #006292;
+}
+
+#navbar {
+  background-color: #006292;
+  color: #e7eef4;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+#navbar li {
+  display: inline;
+  font-size: 16px;
+  font-weight: bold;
+}
+li a {
+  color: #E7EEF4;
+  text-decoration: none;
+  padding: 10px;
+}
+
+ul.songs {
+  list-style-type: none;
+}
+#navbar li a:hover {
+  background-color: #DDE9D6;
+  padding: 10px;
+  color: #FFFFFF;
+}
+#table {
+  background-color: #006292;
+  font-size: 15px;
+  border-radius: 15px;
+}
+.sidebar {
+  background-color: #F06D06;
+  border-radius: 15px;
+  padding: 5px;
+  float: left;
+  width: 30%;
+  font-size: 15px;
+  color: #B0B8BF;
+}
+
+#first-blok {
+  background-color: black;
+  float: left;
+}
+#second-blok {
+  background-color: #605C14;
+  float: left;
+}
+#third-blok {
+  background-color: #604314;
+  float: left;
+}
+
+.post-container {
+  background-color: #FFFFFF;
+  border-radius: 15px;
+  color: #787878;
+  font-size: 15px;
+  padding: 5px;
+  width: 65%;
+  float: right;
+  margin-bottom: 10px;
+  margin-left: 25px;
+}
+
+.post-image {
+  float: left;
+  width: 250px;
+  margin: 5px;
+  padding: 5px;
+}
+
+h2 {
+  color: #004F61;
+}
+
+h3 {
+  color: #084B8A;
+}
+
+h6 {
+  color: #2E2E2E;
+}
+
+.footer {
+  background-color: #006292;
+  border-radius: 15px;
+  color: #FFFFFF;
+  clear: both;
+  position: relative;
+  padding: 15px;
+  text-align: center;
+  font-size: 10px;
+}
